@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Music Player Java</string>
+    <string name="new_song_is_loading">New Song is loading......</string>
+    <string name="_0_20">0:20</string>
+    <string name="_3_20">3:20</string>
+</resources>
